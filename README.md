@@ -1,6 +1,6 @@
 # Customer Churn Analysis
 
-This project looks at customer churn in a telecom dataset and tries to understand why customers leave and how to reduce it.
+This project looks at customer churn in a telecom dataset and focuses on understanding why customers leave and how to reduce churn.
 
 **Tools:** SQL (SQLite) · Python (pandas, matplotlib, scikit-learn) · Logistic Regression  
 
@@ -21,7 +21,7 @@ Used SQL for initial data exploration, Python for EDA and visualization, and log
 ---
 
 ## Business Recommendation
-Focus retention efforts on month-to-month customers in their first year.  
+Focus retention efforts on month-to-month customers, especially during their first year.
 
 A 5% reduction in churn for this group would retain ~83 customers and recover about $66,000 in annual revenue.
 
