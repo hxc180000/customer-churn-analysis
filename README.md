@@ -13,6 +13,15 @@ Used SQL for initial data exploration, Python for EDA and visualization, and log
 
 ---
 
+## Interactive Dashboard
+
+View the Tableau dashboard here:  
+https://public.tableau.com/app/profile/huiyi.chen/viz/CustomerChurnAnalysisDashboard_17780192968040/CustomerChurnAnalysisDashboard
+
+This dashboard explores customer churn patterns and highlights key factors such as contract type, tenure, and monthly charges.
+
+---
+
 ## Key Findings
 - Month-to-month customers churn at ~43%, compared to 11% (one-year) and 3% (two-year contracts)
 - Churned customers are heavily concentrated in the first 10 months of tenure  
