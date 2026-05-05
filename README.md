@@ -29,4 +29,4 @@ A 5% reduction in churn for this group would retain ~83 customers and recover ab
 
 ## Files
 - `customer_churn_analysis.ipynb` — full analysis notebook  
-- - `WA_Fn-UseC_-Telco-Customer-Churn.csv` — source dataset (Kaggle Telco Customer Churn)
+- `WA_Fn-UseC_-Telco-Customer-Churn.csv` — source dataset (Kaggle Telco Customer Churn)
