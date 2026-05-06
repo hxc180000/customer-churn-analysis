@@ -1,15 +1,18 @@
 # Customer Churn Analysis
 
-This project looks at customer churn in a telecom dataset and focuses on understanding why customers leave and how to reduce churn.
+In this project, I looked at customer churn in a telecom dataset to understand why customers leave and what factors are most related to churn.
 
 **Tools:** SQL (SQLite) · Python (pandas, matplotlib, scikit-learn) · Logistic Regression  
 
 ---
 
 ## What This Project Does
-Analyzed 7,043 telecom customers to understand why customers leave and which ones are most at risk.  
 
-Used SQL for initial data exploration, Python for EDA and visualization, and logistic regression to identify the key drivers of churn.
+Analyzed a telecom dataset with 7,043 customers to understand why customers leave and who is most at risk. 
+
+Used SQL to explore the data and break down churn by contract type and tenure, and Python for data cleaning and visualization. 
+
+Built a logistic regression model to identify the key drivers of churn.
 
 ---
 
@@ -18,7 +21,7 @@ Used SQL for initial data exploration, Python for EDA and visualization, and log
 View the Tableau dashboard here:  
 https://public.tableau.com/app/profile/huiyi.chen/viz/CustomerChurnAnalysisDashboard_17780192968040/CustomerChurnAnalysisDashboard
 
-This dashboard explores customer churn patterns and highlights key factors such as contract type, tenure, and monthly charges.
+This dashboard brings together the main findings and highlights the key factors driving customer churn.
 
 ---
 
